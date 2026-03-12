@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Langue
+
+Toujours répondre en **français**.
+
 ## Project Overview
 
 **AJUMY** is a React Native (Expo) mobile app for managing *Association des Jeunes Unis de Manjo à Yaoundé* — a Cameroonian mutual association. The app is in French and handles member management, finances, attendance, tontines, solidarity funds, and more. All monetary values are in **FCFA**.
